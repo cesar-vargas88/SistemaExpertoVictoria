@@ -1,0 +1,20 @@
+﻿Build started 20/11/2015 23:54:18.
+     1>Project "C:\Users\Cèsar Vargas\Dropbox\Chivarecords\Escuela\CETI\Sistemas expetos\Victoria\Victoria\Victoria.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Victoria.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Victoria.vcxproj -> C:\Users\Cèsar Vargas\Dropbox\Chivarecords\Escuela\CETI\Sistemas expetos\Victoria\Release\Victoria.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Victoria.unsuccessfulbuild".
+         Touching "Release\Victoria.lastbuildstate".
+     1>Done Building Project "C:\Users\Cèsar Vargas\Dropbox\Chivarecords\Escuela\CETI\Sistemas expetos\Victoria\Victoria\Victoria.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00

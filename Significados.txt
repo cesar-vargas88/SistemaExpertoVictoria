@@ -1,0 +1,415 @@
+Audio: Audio
+
+ACMedia: ACMedia
+ACAlta: ACAlta
+ACProfesional: ACProfesional
+
+AZ1: 1 Zona de Audio
+AZ2: 2 Zona de Audio
+AZ3: 3 Zona de Audio
+AZ4: 4 Zona de Audio
+AZ5: 5 Zona de Audio
+AZ6: 6 Zona de Audio
+AZ7: 7 Zona de Audio
+AZ8: 8 Zona de Audio
+
+AF1: 1 Fuente de Audio
+AF2: 2 Fuente de Audio
+AF3: 3 Fuente de Audio
+AF4: 4 Fuente de Audio
+AF5: 5 Fuente de Audio
+AF6: 6 Fuente de Audio
+AF7: 7 Fuente de Audio
+AF8: 8 Fuente de Audio
+
+Video: Video
+
+VZ1: 1 Zona de Video
+VZ2: 2 Zona de Video
+VZ3: 3 Zona de Video
+VZ4: 4 Zona de Video
+VZ5: 5 Zona de Video
+VZ6: 6 Zona de Video
+VZ7: 7 Zona de Video
+VZ8: 8 Zona de Video
+
+VF1: 1 Fuente de Video
+VF2: 2 Fuente de Video
+VF3: 3 Fuente de Video
+VF4: 4 Fuente de Video
+VF5: 5 Fuente de Video
+VF6: 6 Fuente de Video
+VF7: 7 Fuente de Video
+VF8: 8 Fuente de Video
+
+Iluminacion: Iluminacion
+
+IR1: 1 Regreso de Iluminacion
+IR2: 2 Regreso de Iluminacion
+IR3: 3 Regreso de Iluminacion
+IR4: 4 Regreso de Iluminacion
+IR5: 5 Regreso de Iluminacion
+IR6: 6 Regreso de Iluminacion
+IR7: 7 Regreso de Iluminacion
+IR8: 8 Regreso de Iluminacion
+IR9: 9 Regreso de Iluminacion
+IR10: 10 Regreso de Iluminacion
+IR11: 11 Regreso de Iluminacion
+IR12: 12 Regreso de Iluminacion
+IR13: 13 Regreso de Iluminacion
+IR14: 14 Regreso de Iluminacion
+IR15: 15 Regreso de Iluminacion
+IR16: 16 Regreso de Iluminacion
+IR17: 17 Regreso de Iluminacion
+IR18: 18 Regreso de Iluminacion
+IR19: 19 Regreso de Iluminacion
+IR20: 20 Regreso de Iluminacion
+
+Control: Control
+
+Control_Botoneras: Control Botoneras
+
+CB1: 1 Botonera de Control
+CB2: 2 Botonera de Control
+CB3: 3 Botonera de Control
+CB4: 4 Botonera de Control
+CB5: 5 Botonera de Control
+CB6: 6 Botonera de Control
+CB7: 7 Botonera de Control
+CB8: 8 Botonera de Control
+CB9: 9 Botonera de Control
+CB10: 10 Botonera de Control
+CB11: 11 Botonera de Control
+CB12: 12 Botonera de Control
+CB13: 13 Botonera de Control
+CB14: 14 Botonera de Control
+CB15: 15 Botonera de Control
+CB16: 16 Botonera de Control
+CB17: 17 Botonera de Control
+CB18: 18 Botonera de Control
+CB19: 19 Botonera de Control
+CB20: 20 Botonera de Control
+
+Control_Pantallas: Control Pantallas
+
+CP1: 1 Pantalla de Control
+CP2: 2 Pantalla de Control
+CP3: 3 Pantalla de Control
+CP4: 4 Pantalla de Control
+CP5: 5 Pantalla de Control
+CP6: 6 Pantalla de Control
+CP7: 7 Pantalla de Control
+CP8: 8 Pantalla de Control
+CP9: 9 Pantalla de Control
+CP10: 10 Pantalla de Control
+CP11: 11 Pantalla de Control
+CP12: 12 Pantalla de Control
+CP13: 13 Pantalla de Control
+CP14: 14 Pantalla de Control
+CP15: 15 Pantalla de Control
+CP16: 16 Pantalla de Control
+CP17: 17 Pantalla de Control
+CP18: 18 Pantalla de Control
+CP19: 19 Pantalla de Control
+CP20: 20 Pantalla de Control
+
+Control_Moviles: Control Moviles
+
+CM1: 1 Movil de Control
+CM2: 2 Movil de Control
+CM3: 3 Movil de Control
+CM4: 4 Movil de Control
+CM5: 5 Movil de Control
+CM6: 6 Movil de Control
+CM7: 7 Movil de Control
+CM8: 8 Movil de Control
+CM9: 9 Movil de Control
+CM10: 10 Movil de Control
+CM11: 11 Movil de Control
+CM12: 12 Movil de Control
+CM13: 13 Movil de Control
+CM14: 14 Movil de Control
+CM15: 15 Movil de Control
+CM16: 16 Movil de Control
+CM17: 17 Movil de Control
+CM18: 18 Movil de Control
+CM19: 19 Movil de Control
+CM20: 20 Movil de Control
+			
+AD11:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG
+AD12:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD13:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD14:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD15:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD16:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD17:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD18:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG		 
+
+AD21:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG
+AD22:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD23:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD24:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD25:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD26:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD27:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD28:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+
+AD31:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG
+AD32:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD33:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD34:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD35:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD36:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD37:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD38:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+
+AD41:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG
+AD42:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD43:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD44:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD45:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD46:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD47:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG 
+AD48:	 1		Distribuidor de Audio 8 Fuentes 4 Zonas				AMX				DAS-T0804-SIG	
+
+AD51:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG 
+AD52:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD53:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD54:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD55:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD56:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD57:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD58:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG	
+
+AD61:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG 
+AD62:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD63:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD64:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD65:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD66:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD67:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD68:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+
+AD71:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG 
+AD72:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD73:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD74:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD75:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD76:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD77:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD78:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+
+AD81:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG 
+AD82:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD83:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD84:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD85:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD86:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD87:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+AD88:	 1		Distribuidor de Audio 8 Fuentes 8 Zonas				AMX				DAS-T0808-SIG
+	
+ABM1:	 2		Bocinas								Denon				ISW	
+ABM2:	 4		Bocinas								Denon				ISW	
+ABM3:	 6		Bocinas								Denon				ISW	
+ABM4:	 8		Bocinas								Denon				ISW	
+ABM5:	 10		Bocinas								Denon				ISW	
+ABM6:	 12		Bocinas								Denon				ISW	
+ABM7:	 14		Bocinas								Denon				ISW	
+ABM8:	 16		Bocinas								Denon				ISW	
+	
+ABA1:	 2		Bocinas								Jamo				D600
+ABA2:	 4		Bocinas								Jamo				D600
+ABA3:	 6		Bocinas								Jamo				D600
+ABA4:	 8		Bocinas								Jamo				D600
+ABA5:	 10		Bocinas								Jamo				D600
+ABA6:	 12		Bocinas								Jamo				D600
+ABA7:	 14		Bocinas								Jamo				D600
+ABA8:	 16		Bocinas								Jamo				D600
+
+ABP1:	 2		Bocinas								mcintosh				XLS320
+ABP2:	 4		Bocinas								mcintosh				XLS320
+ABP3:	 6		Bocinas								mcintosh				XLS320
+ABP4:	 8		Bocinas								mcintosh				XLS320
+ABP5:	 10		Bocinas								mcintosh				XLS320
+ABP6:	 12		Bocinas								mcintosh				XLS320
+ABP7:	 14		Bocinas								mcintosh				XLS320
+ABP8:	 16		Bocinas								mcintosh				XLS320
+
+VD11:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD12	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD13:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD14:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD15:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD16:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD17:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD18:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD21:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD22	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD23:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD24:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD25:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD26:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD27:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD28:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD32:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD32:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD33:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD34:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD35:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD36:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD37:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD38:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD41:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD42	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD43:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD44:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD45:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD46:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD47:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD48:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD51:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD52	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD53:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD54:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD55:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD56:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD57:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD58:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD61:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD62	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD63:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD64:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD65:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD66:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD67:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD68:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD71:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD72	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD73:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD74:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD75:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD76:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD77:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD78:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+VD81:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD82	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD83:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD84:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD85:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD86:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD87:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+VD88:	 1		Matriz de HDMI 8 Fuentes 8 Zonas					AMX				HDMI-UTPRO-0808
+
+ID1:	 1		Modulo de Dimer de 4 canales					AMX				RE-DM4 
+ID2:	 1		Modulo de Dimer de 4 canales					AMX				RE-DM4
+ID3:	 1		Modulo de Dimer de 4 canales					AMX				RE-DM4
+ID4:	 1		Modulo de Dimer de 4 canales					AMX				RE-DM4
+ID5:	 1		Modulo de Dimer de 6 canales					AMX				RE-DM6
+ID6:	 1		Modulo de Dimer de 6 canales					AMX				RE-DM6
+ID7:	 2		Modulos de Dimer de 4 canales					AMX				RE-DM4
+ID8:	 2		Modulos de Dimer de 4 canales					AMX				RE-DM4
+ID9:	 2		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID10:	 2		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID11:	 2		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID12:	 2		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID13:	 3		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID14:	 3		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID15:	 3		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID16:	 3		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID17:	 3		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID18:	 3		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID19:	 4		Modulos de Dimer de 6 canales					AMX				RE-DM6
+ID20:	 4		Modulos de Dimer de 6 canales					AMX				RE-DM6
+
+IMD1:	 1		Tarjeta de control de 6 canales					AMX				RE-DC	
+IMD2:	 1		Tarjeta de control de 6 canales					AMX				RE-DC	
+IMD3:	 1		Tarjeta de control de 6 canales					AMX				RE-DC	
+IMD4:	 1		Tarjeta de control de 6 canales					AMX				RE-DC	
+IMD5:	 1		Tarjeta de control de 6 canales					AMX				RE-DC	
+IMD6:	 1		Tarjeta de control de 6 canales					AMX				RE-DC	
+IMD7:	 2		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD8:	 2		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD9:	 2		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD10:	 2		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD11:	 2		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD12:	 2		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD13:	 3		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD14:	 3		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD15:	 3		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD16:	 3		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD17:	 3		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD18:	 3		Tarjetas de control de 6 canales					AMX				RE-DC		
+IMD19:	 4		Tarjetas de control de 6 canales					AMX				RE-DC	
+IMD20:	 4		Tarjetas de control de 6 canales					AMX				RE-DC	
+
+CBAMX1:	 1		Botonera de control con 7 botones					AMX				MET-7
+CBAMX2:	 2		Botonera de control con 7 botones					AMX				MET-7
+CBAMX3:	 3		Botonera de control con 7 botones					AMX				MET-7
+CBAMX4:	 4		Botonera de control con 7 botones					AMX				MET-7
+CBAMX5:	 5		Botonera de control con 7 botones					AMX				MET-7
+CBAMX6:	 6		Botonera de control con 7 botones					AMX				MET-7
+CBAMX7:	 7		Botonera de control con 7 botones					AMX				MET-7
+CBAMX8:	 8		Botonera de control con 7 botones					AMX				MET-7
+CBAMX9:	 9		Botonera de control con 7 botones					AMX				MET-7
+CBAMX10:	 10		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX11:	 11		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX12:	 12		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX13:	 13		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX14:	 14		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX15:	 15		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX16:	 16		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX17:	 17		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX18:	 18		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX19:	 19		Botoneras de control con 7 botones					AMX				MET-7
+CBAMX20:	 20		Botoneras de control con 7 botones					AMX				MET-7
+
+CPAMX1:	 1		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000	
+CPAMX2:	 2		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX3:	 3		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX4:	 4		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX5:	 5		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX6:	 6		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX7:	 7		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX8:	 8		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX9:	 9		Panel táctil de 10.1" Serie MODERO X					AMX				MXT-1000
+CPAMX10:	 10		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX11:	 11		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX12:	 12		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX13:	 13		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX14:	 14		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX15:	 15		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX16:	 16		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX17:	 17		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX18:	 18		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX19:	 19		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+CPAMX20:	 20		Paneles táctiles de 10.1" Serie MODERO X				AMX				MXT-1000
+
+CMAMX1:	 1		Licencia TPControl							AMX				TPControl
+CMAMX2:	 2		Licencia TPControl							AMX				TPControl
+CMAMX3:	 3		Licencia TPControl							AMX				TPControl
+CMAMX4:	 4		Licencia TPControl							AMX				TPControl
+CMAMX5:	 5		Licencia TPControl							AMX				TPControl
+CMAMX6:	 6		Licencia TPControl							AMX				TPControl
+CMAMX7:	 7		Licencia TPControl							AMX				TPControl
+CMAMX8:	 8		Licencia TPControl							AMX				TPControl
+CMAMX9:	 9		Licencia TPControl							AMX				TPControl
+CMAMX10:	 10		Licencias TPControl							AMX				TPControl
+CMAMX11:	 11		Licencias TPControl							AMX				TPControl
+CMAMX12:	 12		Licencias TPControl							AMX				TPControl
+CMAMX13:	 13		Licencias TPControl							AMX				TPControl
+CMAMX14:	 14		Licencias TPControl							AMX				TPControl
+CMAMX15:	 15		Licencias TPControl							AMX				TPControl
+CMAMX16:	 15		Licencias TPControl							AMX				TPControl
+CMAMX17:	 17		Licencias TPControl							AMX				TPControl
+CMAMX18:	 18		Licencias TPControl							AMX				TPControl
+CMAMX19:	 19		Licencias TPControl							AMX				TPControl
+CMAMX20:	 20		Licencias TPControl							AMX				TPControl
+		
+Controlador:	 1		Controlador central 						AMX				NI-310

@@ -1,0 +1,374 @@
+((ACMedia & (AZ1 & AF1)) -> (AD11 & ABM1));
+((ACMedia & (AZ1 & AF2)) -> (AD12 & ABM1));
+((ACMedia & (AZ1 & AF3)) -> (AD13 & ABM1));
+((ACMedia & (AZ1 & AF4)) -> (AD14 & ABM1));
+((ACMedia & (AZ1 & AF5)) -> (AD15 & ABM1));
+((ACMedia & (AZ1 & AF6)) -> (AD16 & ABM1));
+((ACMedia & (AZ1 & AF7)) -> (AD17 & ABM1));
+((ACMedia & (AZ1 & AF8)) -> (AD18 & ABM1));
+
+((ACMedia & (AZ2 & AF1)) -> (AD21 & ABM2));
+((ACMedia & (AZ2 & AF2)) -> (AD22 & ABM2));
+((ACMedia & (AZ2 & AF3)) -> (AD23 & ABM2));
+((ACMedia & (AZ2 & AF4)) -> (AD24 & ABM2));
+((ACMedia & (AZ2 & AF5)) -> (AD25 & ABM2));
+((ACMedia & (AZ2 & AF6)) -> (AD26 & ABM2));
+((ACMedia & (AZ2 & AF7)) -> (AD27 & ABM2));
+((ACMedia & (AZ2 & AF8)) -> (AD28 & ABM2));
+
+((ACMedia & (AZ3 & AF1)) -> (AD31 & ABM3));
+((ACMedia & (AZ3 & AF2)) -> (AD32 & ABM3));
+((ACMedia & (AZ3 & AF3)) -> (AD33 & ABM3));
+((ACMedia & (AZ3 & AF4)) -> (AD34 & ABM3));
+((ACMedia & (AZ3 & AF5)) -> (AD35 & ABM3));
+((ACMedia & (AZ3 & AF6)) -> (AD36 & ABM3));
+((ACMedia & (AZ3 & AF7)) -> (AD37 & ABM3));
+((ACMedia & (AZ3 & AF8)) -> (AD38 & ABM3));
+
+((ACMedia & (AZ4 & AF1)) -> (AD41 & ABM4));
+((ACMedia & (AZ4 & AF2)) -> (AD42 & ABM4));
+((ACMedia & (AZ4 & AF3)) -> (AD43 & ABM4));
+((ACMedia & (AZ4 & AF4)) -> (AD44 & ABM4));
+((ACMedia & (AZ4 & AF5)) -> (AD45 & ABM4));
+((ACMedia & (AZ4 & AF6)) -> (AD46 & ABM4));
+((ACMedia & (AZ4 & AF7)) -> (AD47 & ABM4));
+((ACMedia & (AZ4 & AF8)) -> (AD48 & ABM4));
+
+((ACMedia & (AZ5 & AF1)) -> (AD51 & ABM5));
+((ACMedia & (AZ5 & AF2)) -> (AD52 & ABM5));
+((ACMedia & (AZ5 & AF3)) -> (AD53 & ABM5));
+((ACMedia & (AZ5 & AF4)) -> (AD54 & ABM5));
+((ACMedia & (AZ5 & AF5)) -> (AD55 & ABM5));
+((ACMedia & (AZ5 & AF6)) -> (AD56 & ABM5));
+((ACMedia & (AZ5 & AF7)) -> (AD57 & ABM5));
+((ACMedia & (AZ5 & AF8)) -> (AD58 & ABM5));
+
+((ACMedia & (AZ6 & AF1)) -> (AD61 & ABM6));
+((ACMedia & (AZ6 & AF2)) -> (AD62 & ABM6));
+((ACMedia & (AZ6 & AF3)) -> (AD63 & ABM6));
+((ACMedia & (AZ6 & AF4)) -> (AD64 & ABM6));
+((ACMedia & (AZ6 & AF5)) -> (AD65 & ABM6));
+((ACMedia & (AZ6 & AF6)) -> (AD66 & ABM6));
+((ACMedia & (AZ6 & AF7)) -> (AD67 & ABM6));
+((ACMedia & (AZ6 & AF8)) -> (AD68 & ABM6));
+
+((ACMedia & (AZ7 & AF1)) -> (AD71 & ABM7));
+((ACMedia & (AZ7 & AF2)) -> (AD72 & ABM7));
+((ACMedia & (AZ7 & AF3)) -> (AD73 & ABM7));
+((ACMedia & (AZ7 & AF4)) -> (AD74 & ABM7));
+((ACMedia & (AZ7 & AF5)) -> (AD75 & ABM7));
+((ACMedia & (AZ7 & AF6)) -> (AD76 & ABM7));
+((ACMedia & (AZ7 & AF7)) -> (AD77 & ABM7));
+((ACMedia & (AZ7 & AF8)) -> (AD78 & ABM7));
+
+((ACMedia & (AZ8 & AF1)) -> (AD81 & ABM8));
+((ACMedia & (AZ8 & AF2)) -> (AD82 & ABM8));
+((ACMedia & (AZ8 & AF3)) -> (AD83 & ABM8));
+((ACMedia & (AZ8 & AF4)) -> (AD84 & ABM8));
+((ACMedia & (AZ8 & AF5)) -> (AD85 & ABM8));
+((ACMedia & (AZ8 & AF6)) -> (AD86 & ABM8));
+((ACMedia & (AZ8 & AF7)) -> (AD87 & ABM8));
+((ACMedia & (AZ8 & AF8)) -> (AD88 & ABM8));
+
+((ACAlta & (AZ1 & AF1)) -> (AD11 & ABA1));
+((ACAlta & (AZ1 & AF2)) -> (AD12 & ABA1));
+((ACAlta & (AZ1 & AF3)) -> (AD13 & ABA1));
+((ACAlta & (AZ1 & AF4)) -> (AD14 & ABA1));
+((ACAlta & (AZ1 & AF5)) -> (AD15 & ABA1));
+((ACAlta & (AZ1 & AF6)) -> (AD16 & ABA1));
+((ACAlta & (AZ1 & AF7)) -> (AD17 & ABA1));
+((ACAlta & (AZ1 & AF8)) -> (AD18 & ABA1));
+
+((ACAlta & (AZ2 & AF1)) -> (AD21 & ABA2));
+((ACAlta & (AZ2 & AF2)) -> (AD22 & ABA2));
+((ACAlta & (AZ2 & AF3)) -> (AD23 & ABA2));
+((ACAlta & (AZ2 & AF4)) -> (AD24 & ABA2));
+((ACAlta & (AZ2 & AF5)) -> (AD25 & ABA2));
+((ACAlta & (AZ2 & AF6)) -> (AD26 & ABA2));
+((ACAlta & (AZ2 & AF7)) -> (AD27 & ABA2));
+((ACAlta & (AZ2 & AF8)) -> (AD28 & ABA2));
+
+((ACAlta & (AZ3 & AF1)) -> (AD31 & ABA3));
+((ACAlta & (AZ3 & AF2)) -> (AD32 & ABA3));
+((ACAlta & (AZ3 & AF3)) -> (AD33 & ABA3));
+((ACAlta & (AZ3 & AF4)) -> (AD34 & ABA3));
+((ACAlta & (AZ3 & AF5)) -> (AD35 & ABA3));
+((ACAlta & (AZ3 & AF6)) -> (AD36 & ABA3));
+((ACAlta & (AZ3 & AF7)) -> (AD37 & ABA3));
+((ACAlta & (AZ3 & AF8)) -> (AD38 & ABA3));
+
+((ACAlta & (AZ4 & AF1)) -> (AD41 & ABA4));
+((ACAlta & (AZ4 & AF2)) -> (AD42 & ABA4));
+((ACAlta & (AZ4 & AF3)) -> (AD43 & ABA4));
+((ACAlta & (AZ4 & AF4)) -> (AD44 & ABA4));
+((ACAlta & (AZ4 & AF5)) -> (AD45 & ABA4));
+((ACAlta & (AZ4 & AF6)) -> (AD46 & ABA4));
+((ACAlta & (AZ4 & AF7)) -> (AD47 & ABA4));
+((ACAlta & (AZ4 & AF8)) -> (AD48 & ABA4));
+
+((ACAlta & (AZ5 & AF1)) -> (AD51 & ABA5));
+((ACAlta & (AZ5 & AF2)) -> (AD52 & ABA5));
+((ACAlta & (AZ5 & AF3)) -> (AD53 & ABA5));
+((ACAlta & (AZ5 & AF4)) -> (AD54 & ABA5));
+((ACAlta & (AZ5 & AF5)) -> (AD55 & ABA5));
+((ACAlta & (AZ5 & AF6)) -> (AD56 & ABA5));
+((ACAlta & (AZ5 & AF7)) -> (AD57 & ABA5));
+((ACAlta & (AZ5 & AF8)) -> (AD58 & ABA5));
+
+((ACAlta & (AZ6 & AF1)) -> (AD61 & ABA6));
+((ACAlta & (AZ6 & AF2)) -> (AD62 & ABA6));
+((ACAlta & (AZ6 & AF3)) -> (AD63 & ABA6));
+((ACAlta & (AZ6 & AF4)) -> (AD64 & ABA6));
+((ACAlta & (AZ6 & AF5)) -> (AD65 & ABA6));
+((ACAlta & (AZ6 & AF6)) -> (AD66 & ABA6));
+((ACAlta & (AZ6 & AF7)) -> (AD67 & ABA6));
+((ACAlta & (AZ6 & AF8)) -> (AD68 & ABA6));
+
+((ACAlta & (AZ7 & AF1)) -> (AD71 & ABA7));
+((ACAlta & (AZ7 & AF2)) -> (AD72 & ABA7));
+((ACAlta & (AZ7 & AF3)) -> (AD73 & ABA7));
+((ACAlta & (AZ7 & AF4)) -> (AD74 & ABA7));
+((ACAlta & (AZ7 & AF5)) -> (AD75 & ABA7));
+((ACAlta & (AZ7 & AF6)) -> (AD76 & ABA7));
+((ACAlta & (AZ7 & AF7)) -> (AD77 & ABA7));
+((ACAlta & (AZ7 & AF8)) -> (AD78 & ABA7));
+
+((ACAlta & (AZ8 & AF1)) -> (AD81 & ABA8));
+((ACAlta & (AZ8 & AF2)) -> (AD82 & ABA8));
+((ACAlta & (AZ8 & AF3)) -> (AD83 & ABA8));
+((ACAlta & (AZ8 & AF4)) -> (AD84 & ABA8));
+((ACAlta & (AZ8 & AF5)) -> (AD85 & ABA8));
+((ACAlta & (AZ8 & AF6)) -> (AD86 & ABA8));
+((ACAlta & (AZ8 & AF7)) -> (AD87 & ABA8));
+((ACAlta & (AZ8 & AF8)) -> (AD88 & ABA8));
+
+((ACProfesional & (AZ1 & AF1)) -> (AD11 & ABP1));
+((ACProfesional & (AZ1 & AF2)) -> (AD12 & ABP1));
+((ACProfesional & (AZ1 & AF3)) -> (AD13 & ABP1));
+((ACProfesional & (AZ1 & AF4)) -> (AD14 & ABP1));
+((ACProfesional & (AZ1 & AF5)) -> (AD15 & ABP1));
+((ACProfesional & (AZ1 & AF6)) -> (AD16 & ABP1));
+((ACProfesional & (AZ1 & AF7)) -> (AD17 & ABP1));
+((ACProfesional & (AZ1 & AF8)) -> (AD18 & ABP1));
+
+((ACProfesional & (AZ2 & AF1)) -> (AD21 & ABP2));
+((ACProfesional & (AZ2 & AF2)) -> (AD22 & ABP2));
+((ACProfesional & (AZ2 & AF3)) -> (AD23 & ABP2));
+((ACProfesional & (AZ2 & AF4)) -> (AD24 & ABP2));
+((ACProfesional & (AZ2 & AF5)) -> (AD25 & ABP2));
+((ACProfesional & (AZ2 & AF6)) -> (AD26 & ABP2));
+((ACProfesional & (AZ2 & AF7)) -> (AD27 & ABP2));
+((ACProfesional & (AZ2 & AF8)) -> (AD28 & ABP2));
+
+((ACProfesional & (AZ3 & AF1)) -> (AD31 & ABP3));
+((ACProfesional & (AZ3 & AF2)) -> (AD32 & ABP3));
+((ACProfesional & (AZ3 & AF3)) -> (AD33 & ABP3));
+((ACProfesional & (AZ3 & AF4)) -> (AD34 & ABP3));
+((ACProfesional & (AZ3 & AF5)) -> (AD35 & ABP3));
+((ACProfesional & (AZ3 & AF6)) -> (AD36 & ABP3));
+((ACProfesional & (AZ3 & AF7)) -> (AD37 & ABP3));
+((ACProfesional & (AZ3 & AF8)) -> (AD38 & ABP3));
+
+((ACProfesional & (AZ4 & AF1)) -> (AD41 & ABP4));
+((ACProfesional & (AZ4 & AF2)) -> (AD42 & ABP4));
+((ACProfesional & (AZ4 & AF3)) -> (AD43 & ABP4));
+((ACProfesional & (AZ4 & AF4)) -> (AD44 & ABP4));
+((ACProfesional & (AZ4 & AF5)) -> (AD45 & ABP4));
+((ACProfesional & (AZ4 & AF6)) -> (AD46 & ABP4));
+((ACProfesional & (AZ4 & AF7)) -> (AD47 & ABP4));
+((ACProfesional & (AZ4 & AF8)) -> (AD48 & ABP4));
+
+((ACProfesional & (AZ5 & AF1)) -> (AD51 & ABP5));
+((ACProfesional & (AZ5 & AF2)) -> (AD52 & ABP5));
+((ACProfesional & (AZ5 & AF3)) -> (AD53 & ABP5));
+((ACProfesional & (AZ5 & AF4)) -> (AD54 & ABP5));
+((ACProfesional & (AZ5 & AF5)) -> (AD55 & ABP5));
+((ACProfesional & (AZ5 & AF6)) -> (AD56 & ABP5));
+((ACProfesional & (AZ5 & AF7)) -> (AD57 & ABP5));
+((ACProfesional & (AZ5 & AF8)) -> (AD58 & ABP5));
+
+((ACProfesional & (AZ6 & AF1)) -> (AD61 & ABP6));
+((ACProfesional & (AZ6 & AF2)) -> (AD62 & ABP6));
+((ACProfesional & (AZ6 & AF3)) -> (AD63 & ABP6));
+((ACProfesional & (AZ6 & AF4)) -> (AD64 & ABP6));
+((ACProfesional & (AZ6 & AF5)) -> (AD65 & ABP6));
+((ACProfesional & (AZ6 & AF6)) -> (AD66 & ABP6));
+((ACProfesional & (AZ6 & AF7)) -> (AD67 & ABP6));
+((ACProfesional & (AZ6 & AF8)) -> (AD68 & ABP6));
+
+((ACProfesional & (AZ7 & AF1)) -> (AD71 & ABP7));
+((ACProfesional & (AZ7 & AF2)) -> (AD72 & ABP7));
+((ACProfesional & (AZ7 & AF3)) -> (AD73 & ABP7));
+((ACProfesional & (AZ7 & AF4)) -> (AD74 & ABP7));
+((ACProfesional & (AZ7 & AF5)) -> (AD75 & ABP7));
+((ACProfesional & (AZ7 & AF6)) -> (AD76 & ABP7));
+((ACProfesional & (AZ7 & AF7)) -> (AD77 & ABP7));
+((ACProfesional & (AZ7 & AF8)) -> (AD78 & ABP7));
+
+((ACProfesional & (AZ8 & AF1)) -> (AD81 & ABP8));
+((ACProfesional & (AZ8 & AF2)) -> (AD82 & ABP8));
+((ACProfesional & (AZ8 & AF3)) -> (AD83 & ABP8));
+((ACProfesional & (AZ8 & AF4)) -> (AD84 & ABP8));
+((ACProfesional & (AZ8 & AF5)) -> (AD85 & ABP8));
+((ACProfesional & (AZ8 & AF6)) -> (AD86 & ABP8));
+((ACProfesional & (AZ8 & AF7)) -> (AD87 & ABP8));
+((ACProfesional & (AZ8 & AF8)) -> (AD88 & ABP8));
+
+((VZ1 & VF1) -> VD11);
+((VZ1 & VF2) -> VD12);
+((VZ1 & VF3) -> VD13);
+((VZ1 & VF4) -> VD14);
+((VZ1 & VF5) -> VD15);
+((VZ1 & VF6) -> VD16);
+((VZ1 & VF7) -> VD17);
+((VZ1 & VF8) -> VD18);
+
+((VZ2 & VF1) -> VD21);
+((VZ2 & VF2) -> VD22);
+((VZ2 & VF3) -> VD23);
+((VZ2 & VF4) -> VD24);
+((VZ2 & VF5) -> VD25);
+((VZ2 & VF6) -> VD26);
+((VZ2 & VF7) -> VD27);
+((VZ2 & VF8) -> VD28);
+
+((VZ3 & VF1) -> VD31);
+((VZ3 & VF2) -> VD32);
+((VZ3 & VF3) -> VD33);
+((VZ3 & VF4) -> VD34);
+((VZ3 & VF5) -> VD35);
+((VZ3 & VF6) -> VD36);
+((VZ3 & VF7) -> VD37);
+((VZ3 & VF8) -> VD38);
+
+((VZ4 & VF1) -> VD41);
+((VZ4 & VF2) -> VD42);
+((VZ4 & VF3) -> VD43);
+((VZ4 & VF4) -> VD44);
+((VZ4 & VF5) -> VD45);
+((VZ4 & VF6) -> VD46);
+((VZ4 & VF7) -> VD47);
+((VZ4 & VF8) -> VD48);
+
+((VZ5 & VF1) -> VD51);
+((VZ5 & VF2) -> VD52);
+((VZ5 & VF3) -> VD53);
+((VZ5 & VF4) -> VD54);
+((VZ5 & VF5) -> VD55);
+((VZ5 & VF6) -> VD56);
+((VZ5 & VF7) -> VD57);
+((VZ5 & VF8) -> VD58);
+
+((VZ6 & VF1) -> VD61);
+((VZ6 & VF2) -> VD62);
+((VZ6 & VF3) -> VD63);
+((VZ6 & VF4) -> VD64);
+((VZ6 & VF5) -> VD65);
+((VZ6 & VF6) -> VD66);
+((VZ6 & VF7) -> VD67);
+((VZ6 & VF8) -> VD68);
+
+((VZ7 & VF1) -> VD71);
+((VZ7 & VF2) -> VD72);
+((VZ7 & VF3) -> VD73);
+((VZ7 & VF4) -> VD74);
+((VZ7 & VF5) -> VD75);
+((VZ7 & VF6) -> VD76);
+((VZ7 & VF7) -> VD77);
+((VZ7 & VF8) -> VD78);
+
+((VZ8 & VF1) -> VD81);
+((VZ8 & VF2) -> VD82);
+((VZ8 & VF3) -> VD83);
+((VZ8 & VF4) -> VD84);
+((VZ8 & VF5) -> VD85);
+((VZ8 & VF6) -> VD86);
+((VZ8 & VF7) -> VD87);
+((VZ8 & VF8) -> VD88);
+
+(IR1 -> (ID1 & IMD1));
+(IR2 -> (ID2 & IMD2));
+(IR3 -> (ID3 & IMD3));
+(IR4 -> (ID4 & IMD4));
+(IR5 -> (ID5 & IMD5));
+(IR6 -> (ID6 & IMD6));
+(IR7 -> (ID7 & IMD7));
+(IR8 -> (ID8 & IMD8));
+(IR9 -> (ID9 & IMD9));
+(IR10 -> (ID10 & IMD10));
+(IR11 -> (ID11 & IMD11));
+(IR12 -> (ID11 & IMD12));
+(IR13 -> (ID12 & IMD13));
+(IR14 -> (ID13 & IMD14));
+(IR15 -> (ID14 & IMD15));
+(IR16 -> (ID15 & IMD16));
+(IR17 -> (ID16 & IMD17));
+(IR18 -> (ID18 & IMD18));
+(IR19 -> (ID19 & IMD19));
+(IR20 -> (ID20 & IMD20));
+
+(CB1 -> CBAMX1);
+(CB2 -> CBAMX2);
+(CB3 -> CBAMX3);
+(CB4 -> CBAMX4);
+(CB5 -> CBAMX5);
+(CB6 -> CBAMX6);
+(CB7 -> CBAMX7);
+(CB8 -> CBAMX8);
+(CB9 -> CBAMX9);
+(CB10 -> CBAMX10);
+(CB11 -> CBAMX11);
+(CB12 -> CBAMX12);
+(CB13 -> CBAMX13);
+(CB14 -> CBAMX14);
+(CB15 -> CBAMX15);
+(CB16 -> CBAMX16);
+(CB17 -> CBAMX17);
+(CB18 -> CBAMX18);
+(CB19 -> CBAMX19);
+(CB20 -> CBAMX20);
+
+(CP1 -> CPAMX1);
+(CP2 -> CPAMX2);
+(CP3 -> CPAMX3);
+(CP4 -> CPAMX4);
+(CP5 -> CPAMX5);
+(CP6 -> CPAMX6);
+(CP7 -> CPAMX7);
+(CP8 -> CPAMX8);
+(CP9 -> CPAMX9);
+(CP10 -> CPAMX10);
+(CP11 -> CPAMX11);
+(CP12 -> CPAMX12);
+(CP13 -> CPAMX13);
+(CP14 -> CPAMX14);
+(CP15 -> CPAMX15);
+(CP16 -> CPAMX16);
+(CP17 -> CPAMX17);
+(CP18 -> CPAMX18);
+(CP19 -> CPAMX19);
+(CP20 -> CPAMX20);
+
+(CM1 -> CMAMX1);
+(CM2 -> CMAMX2);
+(CM3 -> CMAMX3);
+(CM4 -> CMAMX4);
+(CM5 -> CMAMX5);
+(CM6 -> CMAMX6);
+(CM7 -> CMAMX7);
+(CM8 -> CMAMX8);
+(CM9 -> CMAMX9);
+(CM10 -> CMAMX10);
+(CM11 -> CMAMX11);
+(CM12 -> CMAMX12);
+(CM13 -> CMAMX13);
+(CM14 -> CMAMX14);
+(CM15 -> CMAMX15);
+(CM16 -> CMAMX16);
+(CM17 -> CMAMX17);
+(CM18 -> CMAMX18);
+(CM19 -> CMAMX19);
+(CM20 -> CMAMX20);
+
+(Iluminacion -> Controlador);
+(Control -> Controlador);

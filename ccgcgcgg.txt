@@ -1,0 +1,14 @@
+cuantos dimers  cuantos con elv y directo
+cuantos switch
+
+carga maxima del circuito
+
+10 - 400
+401 - 600
+601 - 1000
+
+switch
+
+0.05  -  8
+8   - 20
+
